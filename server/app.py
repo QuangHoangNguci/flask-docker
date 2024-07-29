@@ -23,3 +23,4 @@ def sum(a,b):
 @app.route('/multiply/<int:a>/<int:b>')
 def multiply(a,b):
     return str(a*b)
+#this code of develop
